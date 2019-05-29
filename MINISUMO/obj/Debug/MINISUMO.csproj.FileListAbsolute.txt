@@ -1,0 +1,29 @@
+c:\users\m9aciej\documents\visual studio 2015\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.exe.config
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.exe
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.pdb
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.csprojResolveAssemblyReference.cache
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.Properties.Resources.resources
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.csproj.GenerateResource.Cache
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.exe
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.pdb
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.MiniSumo.resources
+D:\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.exe.config
+D:\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.exe
+D:\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.pdb
+D:\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.csprojResolveAssemblyReference.cache
+D:\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.MiniSumo.resources
+D:\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.Properties.Resources.resources
+D:\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.csproj.GenerateResource.Cache
+D:\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.csproj.CoreCompileInputs.cache
+D:\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.exe
+D:\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.pdb
+E:\Pliki\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.exe.config
+E:\Pliki\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.exe
+E:\Pliki\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.pdb
+E:\Pliki\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.csprojAssemblyReference.cache
+E:\Pliki\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.MiniSumo.resources
+E:\Pliki\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.Properties.Resources.resources
+E:\Pliki\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.csproj.GenerateResource.cache
+E:\Pliki\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.csproj.CoreCompileInputs.cache
+E:\Pliki\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.exe
+E:\Pliki\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.pdb

@@ -1,0 +1,9 @@
+c:\users\m9aciej\documents\visual studio 2015\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.exe.config
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.exe
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\bin\Debug\MINISUMO.pdb
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.csprojResolveAssemblyReference.cache
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.Properties.Resources.resources
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.csproj.GenerateResource.Cache
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.exe
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.pdb
+C:\Users\M9aciej\Documents\Visual Studio 2015\Projects\MINISUMO\MINISUMO\obj\Debug\MINISUMO.MiniSumo.resources
